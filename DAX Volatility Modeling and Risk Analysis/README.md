@@ -7,4 +7,4 @@ To capture time-varying volatility, GARCH-family models are implemented, includi
 The project evaluates in-sample and out-of-sample forecasting performance, identifying ARMA(3,3)-EGARCH(1,1) and ARMA(2,2)-GARCH(1,1) as the best-performing models.
 Market risk is then assessed using Value at Risk (VaR) and Expected Shortfall (ES), including backtesting procedures (Kupiec and Christoffersen tests) to verify model reliability.
 
-The project demonstrates skills in time-series modeling, quantitative finance, risk measurement, and Python-based financial analysis.
+The project demonstrates skills in time-series modeling, quantitative finance and risk measurement.
